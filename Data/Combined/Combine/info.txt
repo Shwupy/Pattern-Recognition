@@ -1,0 +1,2 @@
+coordinates: middle of images
+size: 64 by 64s
