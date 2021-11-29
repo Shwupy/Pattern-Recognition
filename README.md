@@ -1,12 +1,14 @@
 # Template Matching
-Implementations of Template Matching in BMP Images
 
-**Problem Description**
+**Problem Description**<br/>
 Template Matching is an image processing task where the position of a known object/pattern is within a larger image.
 
-_Methods_:
-1. Root Square Error
+_Basic Methods_:
+1. Squared Error
 2. Correlation
-3. FFT method
 
-**Results and Discussion**
+_Advanced Methods_:
+1. SIFT (Scale Invariant Feature Transform)
+2. SURF (Speeded Up Robust Features)
+3. Neural Nets
+
